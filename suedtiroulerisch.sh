@@ -1,20 +1,21 @@
 #!/bin/bash
-git config --local alias.eroeffne init
-git config --local alias.machnach clone
-git config --local alias.zieh pull
-git config --local alias.fueghinzu add
-git config --local alias.drueck push
-git config --local alias.pfusch push --force-with-lease
-git config --local alias.zweig branch
-git config --local alias.verzweige branch
-git config --local alias.buche-ein commit
-git config --local alias.erde rebase
-git config --local alias.unterscheide diff
-git config --local alias.vereinige merge
-git config --local alias.bunkere stash
-git config --local alias.markiere tag
-git config --local alias.buche-aus checkout
-git config --local alias.tagebuch log
-git config --local alias.zustand status
-git config --local alias.beschuldige blame
-git config --local alias.fern remote
+git config --global alias.augeats init
+git config --global alias.okupfern clone
+git config --global alias.ziachn pull
+git config --global alias.zuitian add
+git config --global alias.schiabn push
+git config --global alias.kroftschiabn 'push --force'
+git config --global alias.astl branch
+git config --global alias.ost branch
+git config --global alias.auschreibn commit
+git config --global alias.aufrolln rebase
+git config --global alias.schaugmrmol diff
+git config --global alias.schaugmr diff
+git config --global alias.zomtian merge
+git config --global alias.insteckn stash
+git config --global alias.housnsock stash
+git config --global alias.stempln tag
+git config --global alias.hupf checkout
+git config --global alias.chronik log
+git config --global alias.wiaschaugsaus status
+git config --global alias.blamiern blame
