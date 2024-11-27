@@ -1,107 +1,100 @@
 # Git af Südtirolerisch
 
-Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
-(übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish.
-_"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
-der oft seltsam klingenden Konstruktionen.
+Olm wieder tratzts uan wennmen mit uan iber `git` reidn muas, des denglisch isch nix, sellatwegn mochmr des iatz ordentlich.
 
-Git auf Deutsch schafft Abhilfe!
+Git hoast sou viel wia Lopp, Dummkopf, Off... Mir einign ins af `lopp`.
 
-## Vorschläge
+## Sou hoasts wirklich
 
 Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
-| Verb        | Aktueller Gebrauch | Vorschlag            |
-| ----------- | ------------------ | -------------------- |
-| init        | initten            | eröffnen             |
-| add         | adden              | hinzufügen           |
-| blame       | blamen             | beschuldigen         |
-| pull        | pullen             | ziehen               |
-| push        | pushen             | schieben             |
-| clone       | clonen             | nachmachen           |
-| fetch       | fetchen            | holen                |
-| branch      | branchen           | abzweigen            |
-| commit      | commiten           | einbuchen            |
-| rebase      | rebasen            | (neu) erden          |
-| diff        | diffen             | unterscheiden        |
-| merge       | mergen             | zusammenführen       |
-| fork        | forken             | abzweigen            |
-| stash       | stashen            | verstauen            |
-| tag         | taggen             | markieren            |
-| cherry-pick | cherry-picken      | Rosinen herauspicken |
-| checkout    | checkouten         | ausbuchen            |
-| squash      | squashen           | quetschen            |
+| Englisch    | Denglisch     | Südtirolerisch |
+| ----------- | ------------- | -------------- |
+| init        | initten       | augeats        |
+| add         | adden         | zuitian        |
+| blame       | blamen        | blamiern       |
+| pull        | pullen        | ziachn         |
+| push        | pushen        | schiabn        |
+| clone       | clonen        | okupfern       |
+| fetch       | fetchen       | houln          |
+| branch      | branchen      | astlen         |
+| commit      | commiten      | verpflichtn    |
+| rebase      | rebasen       | aufrolln       |
+| diff        | diffen        | schaugmrmol    |
+| merge       | mergen        | zomtian        |
+| fork        | forken        | gobln          |
+| stash       | stashen       | housnsock      |
+| tag         | taggen        | stempln        |
+| cherry-pick | cherry-picken | kerstnklaubn   |
+| checkout    | checkouten    | hupfn          |
+| squash      | squashen      | zommdruckn     |
 
 Hier noch einige (zum Teil nicht ganz ernste)
 
-| Substantiv    | Aktueller Gebrauch | Vorschlag                  |
-| ------------- | ------------------ | -------------------------- |
-| git           | git                | Depp                       |
-| github        | github             | Deppenzentrum              |
-| gitlab        | gitlab             | Deppenlabor                |
-| gitea         | gitea              | Deppentee                  |
-| blame         | blame              | Beschuldigung              |
-| bitbucket     | bitbucket          | Gebisseimer                |
-| repository    | repo               | Depot                      |
-| branch        | branch             | Zweig                      |
-| commit        | commit             | Einbuchung                 |
-| log           | log                | Tagebuch                   |
-| pull request  | pull request       | Ziehbegehren               |
-| merge request | merge request      | Antrag auf Zusammenführung |
-| stash         | stash              | Versteck                   |
-| status        | status             | Zustand                    |
-| tag           | tag                | Markierung                 |
-| origin        | origin             | Ursprung                   |
-| master        | master             | Meister                    |
-| main          | main               | Haupt                      |
+| Substantiv    | Aktueller Gebrauch | Vorschlag     |
+| ------------- | ------------------ | ------------- |
+| git           | git                | lopp          |
+| github        | github             | loppnhaufn    |
+| gitlab        | gitlab             | loppnlabor    |
+| gitea         | gitea              | loppntee      |
+| blame         | blame              | blamiern      |
+| bitbucket     | bitbucket          | bitkibl       |
+| repository    | repo               | misthaufn     |
+| branch        | branch             | ost           |
+| commit        | commit             | auschreibn    |
+| log           | log                | bibel         |
+| pull request  | pull request       | ziachounfrog  |
+| merge request | merge request      | zomtianonfrog |
+| stash         | stash              | housnsock     |
+| status        | status             | wiaschaugsaus |
+| tag           | tag                | stempl        |
+| origin        | origin             | quell         |
+| master        | master             | moastr        |
+| main          | main               | schef         |
 
-## Beispiele
+## A poor beispielelen
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppenzentrum drücken?
+    - Du gea, ziach mir amol den oscht denni grod nui augrollt hon und schiabn afn loppnzentum aui.
 
-    - Dafür habe ich ein neues Depot eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
+    - Fir des honi an misthaufn autoun, nor mogsch dr lei in paschgl ost nemmen und lousleign.
 
-    - Nein, drücke das gleich zum Meister im Ursprung!
+    - Na des schiabmr lei frisch afn moaster in dr quell!
 
-    - Du kannst in der Deppenbeschuldigung sehen, wer das geändert hat.
+    - Schaugsch in dr blamierung inni, nor sigsch schun wella off den schmorrn augfiahrt hot.
 
-    - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
+    - Du i bin grod weck geostet, nor tua i mein zuig fan housnsock frisch inni verplichtn.
 
-    - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
+    - Do klaubmr om besten di kersten ausser
 
-    - Am besten wir picken uns die Rosinen aus dem Hauptzweig heraus.
+## Lopp hernemmen
 
-    - Gabeln Sie im Deppenzentrum!
+Iatz mogsch des lei olls in deiner schelf innikearn nor konsch `lopp` benutzen wia sichs keart:
 
-    - Wenn du fertig bist, dann kannst du das Ziehbegehren sofort quetschen und zusammenführen.
+```bash
+git config --global alias.augeats init
+git config --global alias.okupfern clone
+git config --global alias.ziachn pull
+git config --global alias.zuitian add
+git config --global alias.schiabn push
+git config --global alias.kroftschiabn 'push --force'
+git config --global alias.astl branch
+git config --global alias.ost branch
+git config --global alias.auschreibn commit
+git config --global alias.aufrolln rebase
+git config --global alias.schaugmrmol diff
+git config --global alias.schaugmr diff
+git config --global alias.zomtian merge
+git config --global alias.insteckn stash
+git config --global alias.housnsock stash
+git config --global alias.stempln tag
+git config --global alias.hupf checkout
+git config --global alias.chronik log
+git config --global alias.wiaschaugsaus status
+git config --global alias.blamiern blame
+```
 
-    - Im Deppentagebuch kannst du nachlesen, wer zuletzt eine gequetschte Einbuchung zusammengeführt hat.
+Zlescht tuasch des nout in deiner `~/.bashrc` inni nor hosch `git` a als `lopp` zar verfügung:
 
-## Depp auf Deutsch anwenden
-
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch in Deine Konsole bringt. Da Depp keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
-
-    git config --global alias.eroeffne init
-    git config --global alias.machnach clone
-    git config --global alias.zieh pull
-    git config --global alias.fueghinzu add
-    git config --global alias.drueck push
-    git config --global alias.pfusch 'push --force'
-    git config --global alias.zweig branch
-    git config --global alias.verzweige branch
-    git config --global alias.buche-ein commit
-    git config --global alias.erde rebase
-    git config --global alias.unterscheide diff
-    git config --global alias.vereinige merge
-    git config --global alias.bunkere stash
-    git config --global alias.markiere tag
-    git config --global alias.buche-aus checkout
-    git config --global alias.tagebuch log
-    git config --global alias.zustand status
-    git config --global alias.beschuldige blame
-
-Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
-
-    alias depp=git
-
-https://github.com/danielauener/git-auf-deutsch.git
+```bash
+alias lopp=git
+```
