@@ -1,4 +1,4 @@
-# Git auf Deutsch
+# Git af Südtirolerisch
 
 Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
 (übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish.
@@ -11,31 +11,31 @@ Git auf Deutsch schafft Abhilfe!
 
 Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
-| Verb        | Aktueller Gebrauch | Vorschlag             |
-|-------------|--------------------|-----------------------|
-| init        | initten            | eröffnen              |
-| add         | adden              | hinzufügen            |
-| blame       | blamen             | beschuldigen          |
-| pull        | pullen             | ziehen                |
-| push        | pushen             | schieben              |
-| clone       | clonen             | nachmachen            |
-| fetch       | fetchen            | holen                 |
-| branch      | branchen           | abzweigen             |
-| commit      | commiten           | einbuchen             |
-| rebase      | rebasen            | (neu) erden           |
-| diff        | diffen             | unterscheiden         |
-| merge       | mergen             | zusammenführen        |
-| fork        | forken             | abzweigen             |
-| stash       | stashen            | verstauen             |
-| tag         | taggen             | markieren             |
-| cherry-pick | cherry-picken      | Rosinen herauspicken  |
-| checkout    | checkouten         | ausbuchen             |
-| squash      | squashen           | quetschen             |
+| Verb        | Aktueller Gebrauch | Vorschlag            |
+| ----------- | ------------------ | -------------------- |
+| init        | initten            | eröffnen             |
+| add         | adden              | hinzufügen           |
+| blame       | blamen             | beschuldigen         |
+| pull        | pullen             | ziehen               |
+| push        | pushen             | schieben             |
+| clone       | clonen             | nachmachen           |
+| fetch       | fetchen            | holen                |
+| branch      | branchen           | abzweigen            |
+| commit      | commiten           | einbuchen            |
+| rebase      | rebasen            | (neu) erden          |
+| diff        | diffen             | unterscheiden        |
+| merge       | mergen             | zusammenführen       |
+| fork        | forken             | abzweigen            |
+| stash       | stashen            | verstauen            |
+| tag         | taggen             | markieren            |
+| cherry-pick | cherry-picken      | Rosinen herauspicken |
+| checkout    | checkouten         | ausbuchen            |
+| squash      | squashen           | quetschen            |
 
 Hier noch einige (zum Teil nicht ganz ernste)
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag                  |
-|---------------|--------------------|----------------------------|
+| ------------- | ------------------ | -------------------------- |
 | git           | git                | Depp                       |
 | github        | github             | Deppenzentrum              |
 | gitlab        | gitlab             | Deppenlabor                |
@@ -62,7 +62,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
     - Dafür habe ich ein neues Depot eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
 
     - Nein, drücke das gleich zum Meister im Ursprung!
-    
+
     - Du kannst in der Deppenbeschuldigung sehen, wer das geändert hat.
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
@@ -72,9 +72,9 @@ Hier noch einige (zum Teil nicht ganz ernste)
     - Am besten wir picken uns die Rosinen aus dem Hauptzweig heraus.
 
     - Gabeln Sie im Deppenzentrum!
-    
+
     - Wenn du fertig bist, dann kannst du das Ziehbegehren sofort quetschen und zusammenführen.
-    
+
     - Im Deppentagebuch kannst du nachlesen, wer zuletzt eine gequetschte Einbuchung zusammengeführt hat.
 
 ## Depp auf Deutsch anwenden
@@ -103,4 +103,5 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch
 Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
 
     alias depp=git
+
 https://github.com/danielauener/git-auf-deutsch.git
