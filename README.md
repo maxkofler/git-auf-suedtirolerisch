@@ -89,6 +89,7 @@ git config --global alias.housnsock stash
 git config --global alias.stempln tag
 git config --global alias.hupf checkout
 git config --global alias.chronik log
+git config --global alias.bibel log
 git config --global alias.wiaschaugsaus status
 git config --global alias.blamiern blame
 ```
