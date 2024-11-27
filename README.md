@@ -6,7 +6,7 @@ Git hoast sou viel wia Lopp, Dummkopf, Off... Mir einign ins af `lopp`.
 
 ## Sou hoasts wirklich
 
-Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
+Do sein zwoa listn wous richtig drausteat:
 
 | Englisch    | Denglisch     | Südtirolerisch |
 | ----------- | ------------- | -------------- |
@@ -29,7 +29,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | checkout    | checkouten    | hupfn          |
 | squash      | squashen      | zommdruckn     |
 
-Hier noch einige (zum Teil nicht ganz ernste)
+Do nou a poor wertlen dia ma vielleicht brauchn kannt, nit:
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag     |
 | ------------- | ------------------ | ------------- |
