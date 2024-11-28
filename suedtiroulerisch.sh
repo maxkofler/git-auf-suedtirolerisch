@@ -5,6 +5,8 @@ git config --global alias.ziachn pull
 git config --global alias.zuitian add
 git config --global alias.schiabn push
 git config --global alias.kroftschiabn 'push --force'
+git config --global alias.kroftschiabn-mit-vorbeholt 'push --force-with-lease'
+git config --global alias.kroftschiabn-obr-nit-gonz-sichr 'push --force-with-lease'
 git config --global alias.astl branch
 git config --global alias.ost branch
 git config --global alias.auschreibn commit
